@@ -1,0 +1,120 @@
+.body{
+    margin: 0 auto;
+    width: 70%;
+    
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    background-color: #98c1d9;
+    min-width: 250px;
+    p{
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h3{
+        font-family: 'Times New Roman', Times, serif;
+    }
+    li{
+        font-size: 25px;
+    }
+}
+
+.header{
+    border: 10px solid #3d5a80;
+    background-color: aliceblue;
+    display: flex;
+    font-size: 35px;
+    color: #3d5a80;
+    margin: 40px 50px;
+    margin-top: 20px;
+    border-radius: 30px;
+    h2{
+        margin-left: 50px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    p{
+        color: black;
+        margin-left: 50px;
+        
+        font-size: 30px;
+        
+    }
+
+    img{
+       margin-right: 20px;
+    }
+
+}
+
+.sectionn{
+    border: 10px solid #3d5a80;
+    border-radius: 30px;
+    padding-left: 50px;
+    margin: 5px 50px;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    li{
+        color: #3d5a80;
+    }
+
+    h4{
+        color: #3d5a80;
+    }
+}
+
+.section{
+    border: 10px solid #3d5a80;
+    border-radius: 30px;
+    padding-left: 50px;
+    margin: 40px 50px;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    li{
+        color: #3d5a80;
+    }
+
+    h4{
+        color: #3d5a80;
+    }
+}
+
+.sectioncont{
+    border: 10px solid #3d5a80;
+    border-radius: 30px;
+    padding-left: 50px;
+    margin: 50px 50px;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+.tit{
+    color: #154189;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.footer{
+    background-color: #3d5a80;
+    padding: 30px;
+    a{
+        color: white;
+        font-size: 35px;
+        justify-content: right;
+        margin-left: 50px;
+    }
+}
+
+
+
+
+
+
+
+
